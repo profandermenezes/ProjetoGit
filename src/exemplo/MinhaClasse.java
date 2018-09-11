@@ -4,6 +4,7 @@ public class MinhaClasse {
 	
 	private String nome;
 	private String cpf;
+	private int id;
 	
 	public String getNome() {
 		return nome;
