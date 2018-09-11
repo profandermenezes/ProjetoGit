@@ -5,6 +5,7 @@ public class MinhaClasse {
 	private String nome;
 	private String cpf;
 	private int id;
+	private double salario;
 	
 	public String getNome() {
 		return nome;
